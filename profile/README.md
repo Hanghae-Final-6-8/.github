@@ -1,7 +1,7 @@
-# 8조
+# 🔥8조🔥
 <a href='https://sparkling-glasses-136.notion.site/8-2eef73a6efd549118a88dfd258491915' target='_blank'>팀 노션 바로가기</a>
 
-## ✨Front-end
+## ✨ Front-end
 <table>
   <tr>
     <td align="center"><a href="https://github.com/JuhwanLeeKR"><img src="https://avatars.githubusercontent.com/u/87694150?v=4" width="120px" /></a></td>
@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-## 🌐Back-end
+## 🌐 Back-end
 <table>
   <tr>
     <td align="center"><a href="https://github.com/jinsDevelopment"><img src="https://avatars.githubusercontent.com/u/101075624?v=4" width="120px" /></a></td>
@@ -45,7 +45,7 @@
 </table>
 
 
-## 🖌️Designer
+## 🖌️ Designer
 
 <table>
   <tr>

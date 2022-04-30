@@ -63,6 +63,6 @@
   </tr>
         <tr>
       <td align="center"><a href="https://www.behance.net/journeyyykc989" target='_blank'>portfolio</a></td>
-          <td align="center"><a href='https://drive.google.com/file/d/1_0z0azpa-3Kum1YUJZ6ldboBBR8hbJ1T/view'>portfolio(KOR)</a><br/><a href="http://iam.dothome.co.kr/" target='_blank'>portfolio(JPN)</a></td>
+          <td align="center"><a href='https://drive.google.com/file/d/1_0z0azpa-3Kum1YUJZ6ldboBBR8hbJ1T/view'>portfolio</a><br/></td>
   </tr>
 </table>

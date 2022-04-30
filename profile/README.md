@@ -49,7 +49,7 @@
 <table>
   <tr>
     <td align="center"><a href="https://www.behance.net/journeyyykc989" target='_blank'><img src="https://user-images.githubusercontent.com/87694150/166095094-ca236f26-1641-43ef-a99d-dc9a219afc64.jpg" width="120px" /></a></td>
-    <td align="center"><a href="http://iam.dothome.co.kr/" target='_blank'><img src="https://user-images.githubusercontent.com/87694150/166094342-87f74f72-4913-4ecf-b7f3-4e0667f89f0a.png" width="120px" /></a></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1_0z0azpa-3Kum1YUJZ6ldboBBR8hbJ1T/view" target='_blank'><img src="https://user-images.githubusercontent.com/87694150/166094342-87f74f72-4913-4ecf-b7f3-4e0667f89f0a.png" width="120px" /></a></td>
    
   </tr>
   <tr>
@@ -63,6 +63,6 @@
   </tr>
         <tr>
       <td align="center"><a href="https://www.behance.net/journeyyykc989" target='_blank'>portfolio</a></td>
-    <td align="center"><a href="http://iam.dothome.co.kr/" target='_blank'>portfolio</a></td>
+          <td align="center"><a href='https://drive.google.com/file/d/1_0z0azpa-3Kum1YUJZ6ldboBBR8hbJ1T/view'>portfolio(KOR)</a><br/><a href="http://iam.dothome.co.kr/" target='_blank'>portfolio(JPN)</a></td>
   </tr>
 </table>

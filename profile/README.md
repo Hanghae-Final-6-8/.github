@@ -1,7 +1,11 @@
-# 🔥8조🔥
+
+# ☕ copick(커픽)
+나만의 커피를 찾을 수 있는 공간
+<br/><br/>
 <a href='https://sparkling-glasses-136.notion.site/8-2eef73a6efd549118a88dfd258491915' target='_blank'>팀 노션 바로가기</a>
 
-## ✨ Front-end
+## 📌Team ONE_SHOT
+### ✨ Front-end
 <table>
   <tr>
     <td align="center"><a href="https://github.com/JuhwanLeeKR" target='_blank'><img src="https://avatars.githubusercontent.com/u/87694150?v=4" width="120px" /></a></td>
@@ -23,7 +27,7 @@
   </tr>
 </table>
 
-## 🌐 Back-end
+### 🌐 Back-end
 <table>
   <tr>
     <td align="center"><a href="https://github.com/jinsDevelopment" target='_blank'><img src="https://avatars.githubusercontent.com/u/101075624?v=4" width="120px" /></a></td>
@@ -45,7 +49,7 @@
 </table>
 
 
-## 🖌️ Designer
+### 🖌️ Designer
 <table>
   <tr>
     <td align="center"><a href="https://www.behance.net/journeyyykc989" target='_blank'><img src="https://user-images.githubusercontent.com/87694150/166095094-ca236f26-1641-43ef-a99d-dc9a219afc64.jpg" width="120px" /></a></td>

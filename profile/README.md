@@ -1,5 +1,5 @@
 
-# ☕ copick(커픽)
+# ☕ COPICK
 나만의 커피를 찾을 수 있는 공간
 <br/><br/>
 <a href='https://sparkling-glasses-136.notion.site/8-2eef73a6efd549118a88dfd258491915' target='_blank'>팀 노션 바로가기</a>

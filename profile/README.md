@@ -96,7 +96,7 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=GitHubActions&logoColor=2088FF"/>
   <img src="https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
   <img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
-  <img src="https://img.shields.io/badge/AWS%20CODEDEPLOY%2053-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
+  <img src="https://img.shields.io/badge/AWS%20CODEDEPLOY-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
   <img src="https://img.shields.io/badge/APACHE%20JMETER-D22128?style=for-the-badge&logo=APACHEJMETER&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/>
 </div>

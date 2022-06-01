@@ -11,6 +11,8 @@
 
 📝 <a href='https://sparkling-glasses-136.notion.site/8-2eef73a6efd549118a88dfd258491915' target='_blank'>팀 노션 바로가기</a>
 
+🔗 [COPICK 원페이지 브로셔](https://sparkling-glasses-136.notion.site/COPICK-d87f9034974844ec8bef83d0683cbb87)
+
 ## ❓ 기획 의도
 나와 어울리는 커피전문점 찾기 힘드셨죠?<br/>
 **COPICK**에서 해결해 드립니다!<br/>

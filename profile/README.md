@@ -68,7 +68,7 @@
 - 배포 : 2022년 5월 31일
 
 ## ☑️ Service Architecture
-<img src="https://velog.velcdn.com/images/leejuhwan/post/8b1806d1-b51e-465f-8540-7e60c3e521ef/image.png" />
+<img src="https://velog.velcdn.com/images/leejuhwan/post/ca8b9a82-3059-4c2c-80d6-7054726b9110/image.png" />
 
 ## 🛠️ Tech Stack
 #### ✨Frontend Tech Stack
